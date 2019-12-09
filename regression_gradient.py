@@ -2,7 +2,7 @@
 """
 Éditeur de Spyder
 
-Ceci est un script temporaire.
+@author: Julien de Saint Angel
 """
 
 import matplotlib.pyplot as plt
