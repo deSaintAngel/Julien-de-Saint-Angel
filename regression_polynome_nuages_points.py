@@ -2,7 +2,7 @@
 """
 Created on Sun Sep 16 23:33:20 2018
 
-@author: julien
+@author: Julien de Saint Angel
 """
 
 from __future__ import absolute_import, division, print_function
