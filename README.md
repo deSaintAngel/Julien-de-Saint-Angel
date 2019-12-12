@@ -24,6 +24,4 @@ L'etape suivante ( l'apprentissage qui correspond à la backpropagation) consist
 <img src="https://render.githubusercontent.com/render/math?math=w_1 ">
 <img src="https://render.githubusercontent.com/render/math?math=w_2 ">
 <img src="https://render.githubusercontent.com/render/math?math=w_n ">
-<img src="https://render.githubusercontent.com/render/math?math=$$T^f_{x_0}(x) =
-\sum_{n=0}^\infty
-\frac{f^{(n)}(x_0)}{n!} (x-x_0)^n$$">
+<img src="https://render.githubusercontent.com/render/math?math=T^f_{x_0}(x) ">
