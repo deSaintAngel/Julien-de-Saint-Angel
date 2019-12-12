@@ -18,3 +18,11 @@ L'etape suivante ( l'apprentissage qui correspond à la backpropagation) consist
 
 
 <img src="https://render.githubusercontent.com/render/math?math=  ">
+
+<img src="https://render.githubusercontent.com/render/math?math= x_1 ">
+<img src="https://render.githubusercontent.com/render/math?math= x_2 ">
+<img src="https://render.githubusercontent.com/render/math?math= x_n ">
+<img src="https://render.githubusercontent.com/render/math?math= w_1 ">
+<img src="https://render.githubusercontent.com/render/math?math= w_2 ">
+<img src="https://render.githubusercontent.com/render/math?math= w_n ">
+<img src="https://render.githubusercontent.com/render/math?math= f(\sum_{î} w_i x_i + b_i) ">
