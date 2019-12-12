@@ -1,3 +1,4 @@
+
 ## Authors : 
  
 * [Julien de SAINT ANGEL](mailto:juliencine17@gmail.com)
@@ -12,3 +13,6 @@ les $x_i$ sont les valeurs d'entrés du neurones. Les $w_i$ sont les poids qui s
 
 Le principe est le suivant, on calcule l'inférence. On donne des valeurs d'entées (les pixels d'une image par exemple), on calcule les valeurs d'activations de chaques couche de neurons, puis on regarde la différence entre les valeurs de prédictions obtenue et les valeurs attendus ( appellé targets). 
 L'etape suivante ( l'apprentissage qui correspond à la backpropagation) consiste à minimiser l'ecart qui est donnée par la fonction de couts ( cost function). Enfin on ajuste avec un taux d'apprentissage les poids pour obtenir une valeurs d'activation proche de la valeurs espéré. On réitère les étapes jusqu'a ce que la fonction de cout atteigne un certain seuil. 
+
+
+- <img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
