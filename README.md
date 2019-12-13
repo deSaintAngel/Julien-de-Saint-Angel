@@ -7,7 +7,7 @@
 ## Deep Learning : le principe 
 Le maching learning est un processus informatique inspiré par la biologie qui consiste à creer un réseau de neurones sous forme de graphe qui à partir d'une entré, va extraires des caracteristiques et donner une prédiction. Un neurone se présente de la façon suivante :
 
-
+![shemaneurone](https://user-images.githubusercontent.com/58695529/70806859-858eb200-1dbc-11ea-96ac-997483c45c05.PNG)
 
 les <img src="https://render.githubusercontent.com/render/math?math=x_i"> sont les valeurs d'entrés du neurones. Les <img src="https://render.githubusercontent.com/render/math?math=w_i"> sont les poids qui seront au cours de l'apprentissage ajusté pour donner une valeur de prédiction. f est une fonction dite d'activation ( identité, relu, softmax ...). celle-ci depend du problème à résoudre. Enfin <img src="https://render.githubusercontent.com/render/math?math=y"> est la valeur d'activation du neurone artificiel. 
 
