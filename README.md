@@ -3,7 +3,7 @@
  
 * [Julien de SAINT ANGEL](mailto:juliencine17@gmail.com)
 
-# Projet du perceptron au GAN : Le Deep_Learning 
+# Projet perceptron : Le Deep_Learning 
 ## Deep Learning : le principe 
 Le maching learning est un processus informatique inspiré par la biologie qui consiste à creer un réseau de neurones sous forme de graphe qui à partir d'une entré, va extraires des caracteristiques et donner une prédiction. Un neurone se présente de la façon suivante :
 
