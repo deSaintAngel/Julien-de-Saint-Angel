@@ -74,8 +74,8 @@ def structure_network(hc_n):
 # weigth vector initialization : random  : normal law / IF W DOESN'T EXIST
 def structure_network0(l,hc_n,n_class):
     Wij=[]
-    W_0 = np.random.normal(0,0.001,l*hc_n[0]) 
-    Wij.append(np.reshape(W_0,(l,hc_n[0])))
+    W_0 = np.random.normal(0,0.001,l*hc_n[0]) #  random vector size lxhc_n
+    Wij.append(np.reshape(W_0,(l,hc_n[0]))) # vector to matrix transformation
     
     ind=1
     for i in np.arange(1,np.size(hc_n)):
